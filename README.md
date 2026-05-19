@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi!&type=waving&color=timeAuto&height=100"/>
+</p>
 
 <!--
 **p-aulina/p-aulina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
